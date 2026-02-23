@@ -22,6 +22,7 @@ Dataset downloaded from [Maven Analytics Hospital Patient Records](https://maven
 1. Download the dataset from Maven Analytics
 2. Run `create_hospital_db.sql` to set up the MySQL database and load the data
 3. Execute queries from `questionbased.sql` to explore the answers
+4. Optionally, this project runs to visualization in Tableau in another repo in [here](https://github.com/akmalbakeri/Visualization/tree/main/Hospital_record)
 
 ---
 
